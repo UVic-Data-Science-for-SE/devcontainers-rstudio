@@ -12,6 +12,7 @@ RUN install2.r --error --skipinstalled -n -1 \
         janitor \
         vip \
         ranger \
+        rstanarm \
         palmerpenguins \
         skimr \
         nnet \
